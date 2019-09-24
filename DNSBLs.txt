@@ -1,0 +1,252 @@
+goo.gl/3UF6be
+goo.gl/HSnHNf
+goo.gl/hFqbpe
+
+https://raw.githubusercontent.com/Riddim/adblock-Spotify/master/hosts
+https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/Spotifynulled.txt
+#https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt
+
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/adobeblock.txt
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/appads.txt
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/cryptomine.txt
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/fakenewsde.txt
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/jbfake.txt
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/youtube.txt
+https://raw.githubusercontent.com/Bearsgoroar/pihole-lists/master/biglist
+https://raw.githubusercontent.com/Bearsgoroar/pihole-lists/master/popads
+https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
+https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt
+https://raw.githubusercontent.com/CHEF-KOCH/Canvas-Font-Fingerprinting-pages/master/Canvas.txt
+https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/uMatrix/CK's-uMatrix-FilterList.txt
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/Trackers/Canvas%20font%20fingerprinting.txt
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/Trackers/audio%20fingerporint%20pages.txt
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/Trackers/canvas%20fingerprinting%20pages.txt
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/Trackers/trackers.txt
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/Trackers/webrtc%20tracking.txt
+https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
+https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/giftcardkiller.txt
+https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
+https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+#https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt
+https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
+https://raw.githubusercontent.com/tarampampam/static/master/hosts/block_shit.txt
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
+
+https://git.io/fpnTp
+https://git.io/fpnkI
+https://git.io/fpnk8
+https://git.io/fpnk0
+https://git.io/fpnky
+https://git.io/fpnkQ
+https://git.io/fpnkj
+https://git.io/fpnIU
+https://git.io/fpnII
+https://git.io/fpnI2
+https://git.io/fpnIy
+https://git.io/fpnIH
+https://git.io/fpnId
+https://git.io/fpnIb
+https://git.io/fpnIN
+https://git.io/fpnIA
+https://git.io/fpnIx
+https://git.io/fpnIh
+https://git.io/fpnLe
+https://git.io/fpnLf
+https://git.io/fpnLT
+https://git.io/fpnLk
+https://git.io/fpnLL
+https://git.io/fpnLq
+https://git.io/fpnL3
+https://git.io/fpnLs
+https://git.io/fpnLn
+https://git.io/fpnLC
+https://git.io/vDvqG
+https://git.io/fpnLl
+https://git.io/fpnL4
+https://git.io/fpnL0
+https://git.io/fpnLE
+https://git.io/fpnLz
+https://git.io/fpnLg
+https://git.io/fpnLV
+https://git.io/fpnLr
+https://git.io/fpnLo
+https://git.io/fpnLK
+https://git.io/fpnLd
+https://git.io/vdc8d
+https://git.io/fpntL
+https://git.io/fpntq
+https://git.io/fpntY
+https://git.io/fpnt3
+https://git.io/fpnts
+https://git.io/fpntZ
+https://git.io/fpntn
+
+
+
+
+http://sysctl.org/cameleon/hosts
+http://winhelp2002.mvps.org/hosts.txt
+https://adaway.org/hosts.txt
+#https://adblock.mahakala.is
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://filters.adtidy.org/extension/chromium/filters/15.txt
+
+
+
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://hosts-file.net/ad_servers.txt
+https://hosts-file.net/emd.txt
+https://hosts-file.net/exp.txt
+https://hosts-file.net/fsa.txt
+https://hosts-file.net/grm.txt
+https://hosts-file.net/mmt.txt
+https://hosts-file.net/pha.txt
+https://hosts-file.net/psh.txt
+
+https://hostsfile.mine.nu/hosts0.txt
+
+https://isc.sans.edu/feeds/suspiciousdomains_High.txt
+
+https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
+https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
+https://mirror1.malwaredomains.com/files/justdomains
+http://mirror4.malwaredomains.com/files/justdomains
+https://pgl.yoyo.org/adservers/serverlist.php?showintro=0
+https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
+
+
+
+
+
+
+
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://someonewhocares.org/hosts/hosts
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://v.firebog.net/hosts/Airelle-hrsk.txt
+
+https://v.firebog.net/hosts/BillStearns.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://v.firebog.net/hosts/Easyprivacy.txt
+https://v.firebog.net/hosts/HPHosts-ads.txt
+https://v.firebog.net/hosts/HPHosts-emd.txt
+https://v.firebog.net/hosts/HPHosts-exp.txt
+https://v.firebog.net/hosts/HPHosts-psh.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt
+https://v.firebog.net/hosts/Prigent-Malware.txt
+https://v.firebog.net/hosts/Prigent-Phishing.txt
+https://v.firebog.net/hosts/Shalla-mal.txt
+https://v.firebog.net/hosts/static/SamsungSmart.txt
+https://v.firebog.net/hosts/static/w3kbl.txt
+https://www.dshield.org/feeds/suspiciousdomains_High.txt
+
+https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
+https://www.joewein.net/dl/bl/dom-bl-base.txt
+https://www.joewein.net/dl/bl/dom-bl.txt
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+https://www.squidblacklist.org/downloads/dg-ads.acl
+https://www.squidblacklist.org/downloads/dg-malicious.acl
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+
+
+#https://tspprs.com/dl/cl1
+#http://www.networksec.org/grabbho/block.txt
+#https://hosts.ubuntu101.co.za/domains.list
+#https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
+#https://ncloud.zaclys.com/index.php/s/MPYSjLkb8cE8gPN/download
+#https://openphish.com/feed.txt
+#https://v.firebog.net/hosts/Airelle-trc.txt
+#https://v.firebog.net/hosts/Kowabit.txt
+#https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
+#https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt
+
+https://raw.githubusercontent.com/Riddim/adblock-Spotify/master/hosts #https://git.io/fpnTp
+
+https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/Spotifynulled.txt #https://git.io/fpnkI
+https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt #https://git.io/fpnk8
+https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list #https://git.io/fpnk0
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/adobeblock.txt #https://git.io/fpnky
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/appads.txt #https://git.io/fpnkQ
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/cryptomine.txt #https://git.io/fpnkj
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/fakenewsde.txt #https://git.io/fpnIU
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt #https://git.io/fpnII
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/jbfake.txt #https://git.io/fpnI2
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt #https://git.io/fpnIy
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/youtube.txt #https://git.io/fpnIH
+https://raw.githubusercontent.com/Bearsgoroar/pihole-lists/master/biglist #https://git.io/fpnId
+https://raw.githubusercontent.com/Bearsgoroar/pihole-lists/master/popads #https://git.io/fpnIb
+https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt #https://git.io/fpnIN
+https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt #https://git.io/fpnIA
+https://raw.githubusercontent.com/CHEF-KOCH/Canvas-Font-Fingerprinting-pages/master/Canvas.txt #https://git.io/fpnIx
+https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt #https://git.io/fpnIh
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/Trackers/Canvas%20font%20fingerprinting.txt #https://git.io/fpnLe
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/Trackers/audio%20fingerporint%20pages.txt #https://git.io/fpnLf
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/Trackers/canvas%20fingerprinting%20pages.txt #https://git.io/fpnLT
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/Trackers/trackers.txt #https://git.io/fpnLk
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/Trackers/webrtc%20tracking.txt #https://git.io/fpnLL
+https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt #https://git.io/fpnLq
+https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt #https://git.io/fpnL3
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt #https://git.io/fpnLs
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt #https://git.io/fpnLn
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts #https://git.io/fpnLC
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts #https://git.io/vDvqG
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts #https://git.io/fpnLl
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts #https://git.io/fpnL4
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts #https://git.io/fpnL0
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts #https://git.io/fpnLE
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts #https://git.io/fpnLz
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts #https://git.io/fpnLg
+https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/giftcardkiller.txt #https://git.io/fpnLV
+https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts #https://git.io/fpnLr
+https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt #https://git.io/fpnLo
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt #https://git.io/fpnLK
+https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt #https://git.io/fpnLd
+https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list #https://git.io/vdc8d
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt #https://git.io/fpntL
+https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt #https://git.io/fpntq
+https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt #https://git.io/fpntY
+https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt #https://git.io/fpnt3
+https://raw.githubusercontent.com/tarampampam/static/master/hosts/block_shit.txt #https://git.io/fpnts
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts #https://git.io/fpntZ
+https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts #https://git.io/fpntn
+
+#https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
+#https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
+
+#https://hostsfile.org/Downloads/hosts.txt
+#https://gist.githubusercontent.com/anthony-wang/943e08bc83759e1dbb8745819f4b3eca/raw/8744f04cfc3f8614aabc42ff2915afe60ee3df13/spotify-hosts.txt #https://git.io/fpnke
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt #https://bitbucket.org/ethanr/dns-blacklists/raw/8575/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+#https://isc.sans.edu/feeds/suspiciousdomains_Low.txt
+#https://www.dshield.org/feeds/suspiciousdomains_Low.txt
+
+# 45MB https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
